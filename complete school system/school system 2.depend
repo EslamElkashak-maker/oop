@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1756999159 source:c:\users\eslam\desktop\cource\oop tasks\school system 2\main.cpp
+	<iostream>
+	<Person.h>
+	<Teacher.h>
+	<Student.h>
+	<Staff.h>
+
+1756999186 c:\users\eslam\desktop\cource\oop tasks\school system 2\include\person.h
+	<iostream>
+
+1756998993 c:\users\eslam\desktop\cource\oop tasks\school system 2\include\teacher.h
+	<Person.h>
+
+1756998993 c:\users\eslam\desktop\cource\oop tasks\school system 2\include\student.h
+	<Person.h>
+
+1756998993 c:\users\eslam\desktop\cource\oop tasks\school system 2\include\staff.h
+	<Person.h>
+
+1757101530 source:c:\users\eslam\desktop\cource\oop\school system 2\main.cpp
+	<iostream>
+	<Person.h>
+	<Teacher.h>
+	<Student.h>
+	<Staff.h>
+	<Course.h>
+	<Classroom.h>
+	<Exam.h>
+	<School.h>
+
+1756999186 c:\users\eslam\desktop\cource\oop\school system 2\include\person.h
+	<iostream>
+
+1756998993 c:\users\eslam\desktop\cource\oop\school system 2\include\teacher.h
+	<Person.h>
+
+1756998993 c:\users\eslam\desktop\cource\oop\school system 2\include\student.h
+	<Person.h>
+
+1756998993 c:\users\eslam\desktop\cource\oop\school system 2\include\staff.h
+	<Person.h>
+
+1757058775 c:\users\eslam\desktop\cource\oop\school system 2\include\course.h
+
+1757058563 c:\users\eslam\desktop\cource\oop\school system 2\include\classroom.h
+
+1757058563 c:\users\eslam\desktop\cource\oop\school system 2\include\exam.h
+
+1757101542 c:\users\eslam\desktop\cource\oop\school system 2\include\school.h
+	<Teacher.h>
+	<Student.h>
+	<Staff.h>
+	<Course.h>
+	<Classroom.h>
+
